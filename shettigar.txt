@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>my first web page</title>
+<br/>
+</head>
+<p>my first web class in AIET</p>
+</body>
+<h1>introduction</h1>
+<h2>working hours</h2>
+<h3>thodar,mijar</h3>
+<h4>vidyagiri</h4>
+<h5>AIET</h5>
+<h6>engineering</h6>
+<center>
+<p> hello <br />  <br /><b>welcome to thodar<b> <br /> thank you <p>
+<p><sup>MIjar<sup><p>
+</center>
+<body bgcolor = "red">
+<html>
+<head>
